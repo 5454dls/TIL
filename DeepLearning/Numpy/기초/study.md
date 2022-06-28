@@ -65,7 +65,7 @@
 - broad cast
   - shape이 다른 경우 정해진 규칙에 따라서 연산
   - 뒤 부터 비교하여 1 or 같은 경우는 그 값을 broad하게 적용
-- boolean mast
+- boolean mask
   - 해당 인덱스가 True인 경우 그 값을 추출
   - True와 False는 암묵적 형변환 적용
 
