@@ -1,0 +1,13 @@
+<선형대수학>
+1. kaist K-MOCK : https://kooc.kaist.ac.kr/mathforai/joinLectures/74606
+2. youtube : https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+<확률/통계>
+1. 실습형 : https://seeing-theory.brown.edu/index.html#firstPage
+
+<기초수학>
+1. youtube : https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
+<확실성>
+1. stanford : https://github.com/ermongroup/cs228-notes
+2. Harvard : https://learning.edx.org/course/course-v1:HarvardX+STAT110x+2T2021/home

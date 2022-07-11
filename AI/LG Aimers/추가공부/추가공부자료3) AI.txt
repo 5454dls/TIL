@@ -1,0 +1,26 @@
+<AI>
+1. Harvard : https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/block-v1:HarvardX+CS50AI+1T2020+type@sequential+block@99364b31367c43e6a1c2146ed9a0b154/block-v1:HarvardX+CS50AI+1T2020+type@vertical+block@abe10e60ff224bd5bc0b33e37ab607cd
+2. Stanford : https://stanford-cs221.github.io/autumn2021/
+
+<bigdata>
+1. https://learning.edx.org/course/course-v1:HarvardX+PH125.1x+1T2022/block-v1:HarvardX+PH125.1x+1T2022+type@sequential+block@333c0c7461e5451f893c832d3a529463/block-v1:HarvardX+PH125.1x+1T2022+type@vertical+block@572d9e1b23b44f299ce3baf3608a7b34
+
+<ML>
+1. Stanford : http://cs229.stanford.edu/
+2. Stanford : https://cs330.stanford.edu/
+3. 서울대학교 K-MOCK : https://lgaimers.lgacademy.com/mod/page/view.php?id=121316
+
+<DL>
+1. Stanford : https://web.stanford.edu/class/cs234/
+2. MIT : http://introtodeeplearning.com/?fbclid=IwAR2lJl7dG7rODvm16HDeLGGMAqc68p0Z3uSBzNqvYM2GPvO8FinJ-mM9Cpk
+3. Stanford : https://web.stanford.edu/class/cs231a/
+4. Georgia : https://omscs.gatech.edu/cs-6476-computer-vision
+5. Stanford : http://web.stanford.edu/class/cs224u/
+6. Stanford : http://web.stanford.edu/class/cs224n/index.html#schedule
+
+<자율주행>
+1. Stanford : https://see.stanford.edu/Course/CS223A
+2. Stanford : https://online.stanford.edu/courses/aa274a-principles-robot-autonomy-i
+3. Stanford : https://online.stanford.edu/courses/cs237b-principles-robot-autonomy-ii
+4. Harvard : https://pll.harvard.edu/course/cs50s-computer-science-business-professionals-0?delta=0
+5. 세종대학교 K-MOCK : http://www.kocw.net/home/search/kemView.do?kemId=1358399
